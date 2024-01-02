@@ -8,6 +8,6 @@ Lecture 02: [The Traveling Wave](Fields-and-Waves-I-Lecture-Notes/Fields_and_Wav
 
 Lecture 03: [The Reflection Coefficient](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_03_The_Reflection_Coefficient.pdf)
 
-
+Lecture 04: [The Input Impedance of a Transmission Line](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_04_The_Input_Impedance_of_a_Transmission_Line.pdf)
 
 
