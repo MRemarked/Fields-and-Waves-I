@@ -10,4 +10,8 @@ Lecture 03: [The Reflection Coefficient](Fields-and-Waves-I-Lecture-Notes/Fields
 
 Lecture 04: [The Input Impedance of a Transmission Line](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_04_The_Input_Impedance_of_a_Transmission_Line.pdf)
 
+Lecture 05: [The Lattice Diagram](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_05_The_Lattice_Diagram.pdf)
+
+
+
 
