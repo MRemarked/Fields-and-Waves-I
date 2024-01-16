@@ -12,6 +12,10 @@ Lecture 04: [The Input Impedance of a Transmission Line](Fields-and-Waves-I-Lect
 
 Lecture 05: [The Lattice Diagram](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_05_The_Lattice_Diagram.pdf)
 
+Lecture 06: [Impedance Matching with Transmission Lines](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_06_Impedance_Matching_with_Transmission_Lines.pdf)
+
+
+
 
 
 
