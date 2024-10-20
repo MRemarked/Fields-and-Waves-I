@@ -14,6 +14,8 @@ Lecture 05: [The Lattice Diagram](Fields-and-Waves-I-Lecture-Notes/Fields_and_Wa
 
 Lecture 06: [Impedance Matching with Transmission Lines](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_06_Impedance_Matching_with_Transmission_Lines.pdf)
 
+Lecture 07: [Lossy Transmission Lines](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_07_Lossy_Transmission_Lines_Notes.pdf)
+
 
 
 
