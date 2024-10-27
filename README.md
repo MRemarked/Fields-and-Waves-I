@@ -18,6 +18,10 @@ Lecture 07: [Lossy Transmission Lines](Fields-and-Waves-I-Lecture-Notes/Fields_a
 
 
 
+Lecture 09: [Vectors Curl Divergence](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_09_Vectors_Curl_Divergence_Notes.pdf)
+
+
+
 
 
 
