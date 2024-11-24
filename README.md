@@ -2,6 +2,10 @@
 
 These are my notes for Fields and Waves I
 
+They are assembled from notes by Professor Ken Connor and Dr Jeff Braunstien
+
+Transmission Lines
+
 Lecture 01: [The Wave Equation](Fields-and-Waves-I-Lecture-Notes/Lecture_01_The_Wave_Equation.pdf)
 
 Lecture 02: [The Traveling Wave](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_02_The_Traveling_Wave.pdf)
@@ -18,6 +22,8 @@ Lecture 07: [Lossy Transmission Lines](Fields-and-Waves-I-Lecture-Notes/Fields_a
 
 
 Lecture 09: [Vectors Curl Divergence](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_09_Vectors_Curl_Divergence_Notes.pdf) and [Vectors Curl Divergence II](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_09_Vectors_Curl_Divergence_II_Notes.pdf)
+
+Electrostatics
 
 
 
