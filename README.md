@@ -26,6 +26,8 @@ Electrostatics
 
 Lecture 09: [Vectors Curl Divergence](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_09_Vectors_Curl_Divergence_Notes.pdf) and [Vectors Curl Divergence II](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_09_Vectors_Curl_Divergence_II_Notes.pdf)
 
+Lecture 10: [Electric Fields](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_10_Electric_Fields_Notes.pdf)
+
 
 
 
