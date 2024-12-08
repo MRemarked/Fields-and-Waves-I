@@ -28,6 +28,8 @@ Lecture 09: [Vectors Curl Divergence](Fields-and-Waves-I-Lecture-Notes/Fields_an
 
 Lecture 10: [Electric Fields](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_10_Electric_Fields_Notes.pdf)
 
+Lecture 11: [Gauss's Law](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_11_Gauss's_Law_Notes.pdf)
+
 
 
 
