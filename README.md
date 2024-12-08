@@ -30,6 +30,8 @@ Lecture 10: [Electric Fields](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_
 
 Lecture 11: [Gauss's Law](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_11_Gauss's_Law_Notes.pdf)
 
+Lecture 12: [Gaussian Surface Symmetry](Fields-and-Waves-I-Lecture-Notes/Fields_and_Waves_I_Lecture_12_Gaussian_Surface_Symmetry_Notes.pdf)
+
 
 
 
